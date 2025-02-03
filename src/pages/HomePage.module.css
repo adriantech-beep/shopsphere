@@ -1,0 +1,33 @@
+.homePage {
+  /* min-height: 35rem; */
+  height: 36rem;
+  /* margin: 0.5em 1em; */
+  background-image: url("../src/assets/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  /* position: relative; */
+}
+.title {
+  /* border: 1px solid red; */
+  width: 40rem;
+  min-height: 15rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* text-align: center; */
+  position: absolute;
+  top: 15rem;
+  left: 10rem;
+}
+.title h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #fb4141;
+}
+.title p {
+  color: #fffdec;
+  font-weight: 600;
+}

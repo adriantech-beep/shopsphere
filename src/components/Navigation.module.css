@@ -1,0 +1,25 @@
+.navAll {
+  display: flex;
+  flex-direction: column;
+}
+.nav {
+  /* border: 5px solid green; */
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  background-color: white;
+  /* background: transparent; */
+  padding: 0.8em;
+}
+.navItem {
+  display: flex;
+  justify-content: space-between;
+  width: 25rem;
+}
+.navItem li {
+  list-style: none;
+}
+.navItems {
+  text-decoration-line: none;
+}

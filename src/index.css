@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:ital,wght@0,300..700;1,300..700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: rgb(13, 12, 34);
+  font-weight: 400;
+  font-family: "Spline Sans Mono", serif;
+}
+body {
+  position: relative;
+}
+.fa-square-xmark {
+  position: absolute;
+  right: -0.2em;
+  top: -0.2em;
+  font-size: 2.5rem;
+  cursor: pointer;
+  color: #d84040;
+}
+.fa-xmark {
+  font-size: 1.5rem;
+  color: red;
+  cursor: pointer;
+}
+.fa-circle-check {
+  font-size: 2.5rem;
+  color: #5cb338;
+}

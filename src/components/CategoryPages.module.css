@@ -1,0 +1,53 @@
+.categoryPages {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 1em;
+}
+.link {
+  display: flex;
+  justify-content: center;
+  width: 18rem;
+  height: 20rem;
+  text-decoration: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.phonesLink {
+  background-image: url(../assets/backgroundimages/phonebg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.laptopsLink {
+  background-image: url(../assets/backgroundimages/laptopbg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.headsetLink {
+  background-image: url(../assets/backgroundimages/headphonebg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.controllerLink {
+  background-image: url(../assets/backgroundimages/controllerbg.jpg);
+  background-size: cover;
+}
+.categoryTitle {
+  margin-top: 0.5em;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.phones {
+  color: #a64d79;
+}
+.laptops {
+  color: #a6aebf;
+}
+.headset {
+  color: #3c552d;
+}
+.controller {
+  color: #b2c9ad;
+}

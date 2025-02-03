@@ -1,0 +1,23 @@
+.deliveryWrapper {
+  /* border: 2px solid yellow; */
+  background-color: beige;
+  height: 36rem;
+  background-image: url(../src/assets/deliverybg.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+/* .deliveryTitle {
+  background-color: #4c585b;
+  position: absolute;
+  width: 30em;
+  height: 25em;
+  margin-top: 3em;
+  margin-left: 5em;
+  display: flex;
+  padding: 2em;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+} */

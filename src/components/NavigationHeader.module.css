@@ -1,0 +1,17 @@
+.navHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #4daa57;
+}
+.navHeader p {
+  color: #fdfcfb;
+}
+.navHeaderTitle {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.2em;
+}
+.navHeaderTitle p {
+  color: #fdfcfb;
+}

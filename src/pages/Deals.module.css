@@ -1,0 +1,19 @@
+.dealsWrapper {
+  /* border: 2px solid yellow; */
+  background-color: beige;
+  height: 38rem;
+  background-image: url(../src/assets/dealsbg.jpg);
+  background-size: cover;
+  background-position: center;
+  position-try: relative;
+}
+.dealsTitle {
+  position: absolute;
+  top: 60%;
+  left: 10%;
+  line-height: 120%;
+  /* right: 10%; */
+}
+.dealsTitle h1 {
+  font-weight: 600;
+}
