@@ -1,0 +1,1 @@
+import{j as r}from"./index-CLTQT0zf.js";import{N as e}from"./Navigation-CppQcamC.js";const i="_deliveryWrapper_qhnrx_1",s={deliveryWrapper:i};function p(){return r.jsx(r.Fragment,{children:r.jsx("div",{className:s.deliveryWrapper,children:r.jsx(e,{})})})}export{p as default};
